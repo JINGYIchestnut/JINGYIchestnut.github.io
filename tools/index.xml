@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on 吴静怡的博客</title>
+    <link>https://JINGYIchestnut.github.io/tools/</link>
+    <description>Recent content in Tools on 吴静怡的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Nov 2021 21:38:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://JINGYIchestnut.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>运营</title>
+      <link>https://JINGYIchestnut.github.io/tools/%E8%BF%90%E8%90%A5/</link>
+      <pubDate>Sun, 14 Nov 2021 21:38:27 +0800</pubDate>
+      
+      <guid>https://JINGYIchestnut.github.io/tools/%E8%BF%90%E8%90%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>管理</title>
+      <link>https://JINGYIchestnut.github.io/tools/%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 14 Nov 2021 21:38:22 +0800</pubDate>
+      
+      <guid>https://JINGYIchestnut.github.io/tools/%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
